@@ -21,9 +21,13 @@
  .item-box{
     position:relative;
     width: 300px;
+    display: inline-block;
 }
 .item-box img{
    aspect-ratio: 1/1; 
+}
+.item-box p {
+    
 }
 
  
